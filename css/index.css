@@ -56,7 +56,7 @@ body {
   height: 8px;
 }
 *::-webkit-scrollbar-thumb {
-  background: #f1f1f1;
+  background: #f38294;
 }
 *::-webkit-scrollbar-track {
   background-color: transparent;
@@ -142,7 +142,7 @@ hr:before {
   top: -10px;
   left: 5%;
   z-index: 1;
-  color: #f1f1f1;
+  color: #f38294;
   content: '\f0c4';
   font: normal normal normal 14px/1 FontAwesome;
   font-size: 20px;
@@ -157,7 +157,7 @@ details {
   border: 2px solid #d6d6d6;
 }
 details summary {
-  color: #f1f1f1;
+  color: #f38294;
 }
 .not-code {
   margin: 0.5em;
@@ -1409,7 +1409,7 @@ figure.highlight {
 blockquote {
   margin: 0;
   padding: 0.1rem 0.8rem;
-  border-left: 0.2rem solid #f1f1f1;
+  border-left: 0.2rem solid #f38294;
   color: #6a737d;
   background-color: #fff;
 }
@@ -1795,7 +1795,7 @@ blockquote footer cite:before {
 #aside_content .card-author #bookmark-it {
   margin-top: 0.2rem;
   height: 1.6rem;
-  background-color: #f1f1f1;
+  background-color: #f38294;
   color: #fff;
   text-decoration: none;
   line-height: 1.6rem;
@@ -1918,7 +1918,7 @@ blockquote footer cite:before {
   word-break: keep-all;
 }
 #aside_content .card-tag-cloud a:hover {
-  color: #f1f1f1 !important;
+  color: #f38294 !important;
 }
 #aside_content .aside_recent_item {
   margin: 10px 0 -15px 0;
@@ -1973,7 +1973,7 @@ blockquote footer cite:before {
   padding-left: 10px;
 }
 #aside_content #aside_title .aside_post_title:hover {
-  color: #f1f1f1 !important;
+  color: #f38294 !important;
 }
 #aside_content .aside_category_item,
 #aside_content .archive-list {
@@ -1994,7 +1994,7 @@ blockquote footer cite:before {
 }
 #aside_content .aside_category_list:hover,
 #aside_content .archive-list-item:hover {
-  background-color: #f1f1f1;
+  background-color: #f38294;
   color: #363636;
 }
 #aside_content .aside_category_list a,
@@ -2121,7 +2121,7 @@ blockquote footer cite:before {
   position: absolute;
   top: 0;
   left: 0;
-  background: #f1f1f1;
+  background: #f38294;
   color: #fff;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-out;
@@ -2149,7 +2149,7 @@ blockquote footer cite:before {
   margin-left: 0.45rem;
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #f1f1f1;
+  border: 0.15rem solid #f38294;
   border-radius: 0.3rem;
   background: #fff;
   content: "";
@@ -2172,12 +2172,12 @@ blockquote footer cite:before {
 #vcomment button {
   font-size: 0.7rem;
   padding: 0.3rem 1rem;
-  background-color: #f1f1f1;
+  background-color: #f38294;
   color: #fff;
   border-color: #fff;
 }
 #vcomment button:hover {
-  background-color: #8b8b8b;
+  background-color: #9a0f25;
 }
 #vcomment textarea {
   font-size: 0.7rem;
@@ -2303,7 +2303,7 @@ blockquote footer cite:before {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #f1f1f1 !important;
+  background: #f38294 !important;
   -webkit-transform: scale(0);
   -moz-transform: scale(0);
   -o-transform: scale(0);
@@ -2391,7 +2391,7 @@ blockquote footer cite:before {
 }
 #footer {
   margin-top: 1rem;
-  background: #f1f1f1;
+  background: #f38294;
   background-attachment: local;
   background-position: bottom;
   -webkit-background-size: cover;
@@ -2430,7 +2430,7 @@ blockquote footer cite:before {
 #nav .nav_bg {
   width: 100%;
   height: 100%;
-  background-color: #f1f1f1;
+  background-color: #f38294;
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -2554,7 +2554,7 @@ blockquote footer cite:before {
 #page-header.fixed a:hover,
 #page-header.fixed #site-name:hover,
 #page-header.fixed .toggle-menu:hover {
-  color: #f1f1f1;
+  color: #f38294;
 }
 #page-header.visible {
   -webkit-transform: translate3d(0, 100%, 0);
@@ -2649,7 +2649,7 @@ blockquote footer cite:before {
 }
 #page-header .menus_item .menus_item_child li:hover a,
 #page-header .menus_item .menus_item_child li:hover i {
-  color: #f1f1f1;
+  color: #f38294;
 }
 #page-header .menus_item .menus_item_child li a {
   color: #3b3a3a;
@@ -2672,7 +2672,7 @@ blockquote footer cite:before {
   z-index: -1;
   width: 0;
   height: 3px;
-  background-color: #f5f5f5;
+  background-color: #f7a7b4;
   content: "";
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -2841,7 +2841,7 @@ blockquote footer cite:before {
   width: 70%;
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items span:hover {
-  color: #f1f1f1;
+  color: #f38294;
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items .menus-expand {
   position: absolute;
@@ -2895,7 +2895,7 @@ blockquote footer cite:before {
   color: #3b3a3a;
 }
 #mobile-sidebar a:hover {
-  color: #f1f1f1;
+  color: #f38294;
 }
 .open-mobile-menus,
 .open-mobile-toc {
@@ -3248,7 +3248,7 @@ blockquote footer cite:before {
   word-wrap: break-word;
 }
 #recent-posts .article-title:hover {
-  color: #f1f1f1 !important;
+  color: #f38294 !important;
 }
 .tag-cloud {
   padding: 40px 44px 44px;
@@ -3339,7 +3339,7 @@ blockquote footer cite:before {
   z-index: 1;
   width: 0.5rem;
   height: 0.5rem;
-  border: 0.25rem solid #f1f1f1;
+  border: 0.25rem solid #f38294;
   border-radius: 0.5rem;
   background: #fff;
   content: "";
@@ -3378,7 +3378,7 @@ blockquote footer cite:before {
   left: calc(-1rem - 17px);
   width: 0.3rem;
   height: 0.3rem;
-  border: 0.15rem solid #f1f1f1;
+  border: 0.15rem solid #f38294;
   border-radius: 0.3rem;
   background: #fff;
   content: "";
@@ -3393,7 +3393,7 @@ blockquote footer cite:before {
   font-size: 1rem;
 }
 .article-sort-item.year:hover:before {
-  border-color: #f1f1f1;
+  border-color: #f38294;
 }
 .article-sort-item.year:before {
   top: 0.7rem;
@@ -3419,7 +3419,7 @@ blockquote footer cite:before {
   transition: all 0.3s;
 }
 .article-sort-item__title:hover {
-  color: #f1f1f1;
+  color: #f38294;
   -webkit-transform: translateX(20px);
   -moz-transform: translateX(20px);
   -o-transform: translateX(20px);
@@ -3693,7 +3693,7 @@ blockquote footer cite:before {
 #top-container {
   position: relative;
   margin-bottom: 1rem;
-  background-color: #f1f1f1;
+  background-color: #f38294;
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -3761,10 +3761,10 @@ blockquote footer cite:before {
   width: fit-content;
   margin: 0.4rem 0.4rem 0.4rem 0;
   padding: 0rem 0.6rem;
-  border: 1px solid #f1f1f1;
+  border: 1px solid #f38294;
   border-radius: 0.6rem;
   background: #fff;
-  color: #f1f1f1;
+  color: #f38294;
   text-decoration: none;
   font-size: 12px;
   cursor: pointer;
@@ -3775,7 +3775,7 @@ blockquote footer cite:before {
   transition: all 0.2s ease-in-out;
 }
 .post-meta__tags:hover {
-  background: #f1f1f1;
+  background: #f38294;
   color: #fff;
 }
 #post-content ol,
@@ -3808,7 +3808,7 @@ a {
   transition: all 0.2s;
 }
 a:hover {
-  color: #f1f1f1;
+  color: #f38294;
   text-decoration: none;
 }
 a#site-name {
@@ -3925,7 +3925,7 @@ img:hover {
   width: 0.8rem;
   height: 0.8rem;
   border-radius: 0.8rem;
-  background: #f1f1f1;
+  background: #f38294;
   content: "";
 }
 .post-copyright:after {
@@ -3943,7 +3943,7 @@ img:hover {
   box-shadow: 0 0 8px 0 rgba(232,237,250,0.6), 0 2px 4px 0 rgba(232,237,250,0.5);
 }
 .post-copyright-meta {
-  color: #f1f1f1;
+  color: #f38294;
   font-weight: bold;
 }
 .post-copyright-info a {
@@ -4022,7 +4022,7 @@ img:hover {
 }
 .layout_post #post a {
   text-decoration: none;
-  color: #f1f1f1;
+  color: #f38294;
 }
 .layout_post #post h1,
 .layout_post #post h2,
@@ -4262,11 +4262,11 @@ img:hover {
   cursor: pointer;
   color: #fff;
   line-height: 36px;
-  background: #f1f1f1;
+  background: #f38294;
   width: 80px;
 }
 .post-reward .reward-button:hover {
-  background: #a4a4a4;
+  background: #c91330;
 }
 .post-reward .reward-button:hover .reward-main {
   display: block;
@@ -4351,7 +4351,7 @@ img:hover {
 #rightside #rightside_config {
   width: 30px;
   height: 30px;
-  background-color: #f1f1f1;
+  background-color: #f38294;
   color: #fff;
   text-align: center;
   line-height: 29px;
@@ -4381,7 +4381,7 @@ img:hover {
 #rightside .translate_chn_to_cht {
   width: 30px;
   height: 30px;
-  background-color: #f1f1f1;
+  background-color: #f38294;
   color: #fff;
   text-align: center;
   line-height: 29px;
