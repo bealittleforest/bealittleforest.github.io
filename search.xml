@@ -41,6 +41,23 @@
     
     
     
+    <entry>
+      <title>github饿了吗———city页面技术总结01</title>
+      <link href="/2019/11/29/github%E9%A5%BF%E4%BA%86%E5%90%97-city%E9%A1%B5%E9%9D%A2%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%9301/"/>
+      <url>/2019/11/29/github%E9%A5%BF%E4%BA%86%E5%90%97-city%E9%A1%B5%E9%9D%A2%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%9301/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="v-on修饰词"><a href="#v-on修饰词" class="headerlink" title="v-on修饰词"></a>v-on修饰词</h2><p>1.prevent 不再重载页面<br>2.stop<br>3.capture<br>4.self<br>5.once<br>6.passive</p><h2 id="slot插槽"><a href="#slot插槽" class="headerlink" title="slot插槽"></a>slot插槽</h2><p>插槽用于决定所携带的内容，插入到指定的某个位置，从而使模板分块，具有模块化的特质和更大的重用性。</p><h2 id="router-link"><a href="#router-link" class="headerlink" title="router-link"></a>router-link</h2><p><router-link to="/xx">等价于router.push({path:”/xx”})</p><h2 id="script导入"><a href="#script导入" class="headerlink" title="script导入"></a>script导入</h2><p>导入同一文件中的不同方法可以将方法用{}括起来”,”分隔。</p><h2 id="“-”符号"><a href="#“-”符号" class="headerlink" title="“$”符号"></a>“$”符号</h2><p>“$”，以便与用户定义的属性区分开来.</p><p>(您会注意到，我们将库代理为以美元符号“$”为前缀的属性名。 你可能还看过其他的属性和方法，例如，$refs, $on, $mount等等也都是以”$”开头。<br>虽然属性名上添加前缀不是必须的，但是这样做可以提醒糊涂的开发人员（可能是你），这是一个公共API属性或方法，欢迎你使用，不像其他属性的实例，可能只是为了 Vue 的内部使用。<br>作为基于原型的语言，Javascript 中没有（真正的）类，因此也没有 “私有” 和 “公共” 变量或 “静态” 方法。 这个惯例是一种很好的替代品，我们认为是值得遵守的约定。)</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 饿了吗 </tag>
+            
+        </tags>
+      
+    </entry>
+    
     
     
     <entry>
